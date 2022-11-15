@@ -31,7 +31,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_network_image: 2.0.0-rc
+  cached_network_image: ^3.2.2
   http: 
 
 
